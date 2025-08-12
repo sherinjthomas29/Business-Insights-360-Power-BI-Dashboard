@@ -1,0 +1,20 @@
+Business Insights 360/
+├── .gitignore
+├── README.md
+├── Power BI/
+│   └── Business_Insights_360.pbix
+│
+├── Data/
+│   ├── raw_data/
+│   │   └── sales_data.csv  (or other raw data files)
+│   └── processed_data/
+│
+├── Documentation/
+│   └── Data_Dictionary.md
+│
+└── Images/
+    └── dashboard_screenshots/
+        └── finance_view.png
+        └── sales_view.png
+        └── marketing_view.png
+        └── supply_chain_view.png
