@@ -6,6 +6,9 @@ This dashboard, "Business Insights 360," provides a multifaceted view of a compa
 
 The dashboard is structured with a clear navigation pane on the left, allowing users to switch between different business views. The main canvas displays a variety of visuals, including tables, charts, and key performance indicators (KPIs). The dashboard effectively uses filters and slicers to allow for granular analysis by time period, region, and product segment.
 
+**Contents**
+1. [Home View] ["C:\Users\sheri\Videos\Captures\Home View.png"]
+
 📈 **Analysis & Interpretation**
 
 **Finance View**
