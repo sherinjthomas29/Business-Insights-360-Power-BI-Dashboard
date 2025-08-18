@@ -85,6 +85,10 @@ ________________________________________
 
 This Power BI dashboard is a powerful tool for a holistic view of the business. It successfully consolidates complex data into an easy-to-understand format, allowing users to quickly identify key trends, performance gaps, and areas of opportunity. By leveraging these insights, the company can make more informed decisions to enhance profitability, optimize operations, and drive future growth. The identified areas for improvement, particularly in supply chain accuracy and underperforming segments, provide clear actionable steps for the business to pursue.
 ________________________________________
+💻 **Presentation**
+
+[Link](Presentation.pdf)
+________________________________________
 📈 **Live Dashboard** 
 
-[Link](https://app.powerbi.com/view?r=eyJrIjoiNWJkMzA1OTktZTY0NC00MWFmLTg1YTItZmJkYmU0YWYxODMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link](https://app.powerbi.com/view?r=eyJrIjoiNjljYjUwNTMtYzA0YS00YTdmLTk2OTktNTIwYWUwZTVkMWFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
