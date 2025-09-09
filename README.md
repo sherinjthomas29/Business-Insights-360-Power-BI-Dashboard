@@ -1,12 +1,12 @@
-# Business-Insights-360-Power-BI-Dashboard
+## Business-Insights-360-Power-BI-Dashboard
 
 This dashboard, "Business Insights 360," provides a multifaceted view of a company's performance across various key business functions: **Finance**, **Sales**, **Marketing**, and **Supply Chain**. The project utilizes Power BI to visualize data and extract actionable insights, enabling stakeholders to make data-driven decisions.
 ________________________________________
-📊 **Dashboard Overview**
+# 📊 **Dashboard Overview**
 
 The dashboard is structured with a clear navigation pane on the left, allowing users to switch between different business views. The main canvas displays a variety of visuals, including tables, charts, and key performance indicators (KPIs). The dashboard effectively uses filters and slicers to allow for granular analysis by time period, region, and product segment.
 ________________________________________
-📋 **Contents**
+# 📋 **Contents**
 
 1. [Home View](https://github.com/sherinjthomas29/Business-Insights-360-Power-BI-Dashboard/blob/main/Home%20View.png)
 2. [Finance View](https://github.com/sherinjthomas29/Business-Insights-360-Power-BI-Dashboard/blob/main/Finance%20View.png)
@@ -15,7 +15,7 @@ ________________________________________
 5. [Supply Chain View](https://github.com/sherinjthomas29/Business-Insights-360-Power-BI-Dashboard/blob/main/Supply%20Chain%20View.png)
 6. [Executive View](https://github.com/sherinjthomas29/Business-Insights-360-Power-BI-Dashboard/blob/main/Executive%20View.png)
 ________________________________________
-📈 **Analysis & Interpretation**
+# 📈 **Analysis & Interpretation**
 
 **Finance View**
 
@@ -49,7 +49,7 @@ The Supply Chain View analyzes forecast accuracy and potential risks.
 
 **Insights**: The overall forecast accuracy is **81.17%**, which is a solid performance but leaves room for improvement. The line chart "Accuracy / Net Error Trend" shows the forecast accuracy over time, indicating periods where forecasting was more challenging. The tables "Key Metrics by Customer" and "Key Metrics by Segment" identify specific customers (Amazon, Atlas Stores) and product segments (Networking, Notebook) where forecast accuracy is low. The Risk column often indicates "OOS" (Out of Stock), a critical business problem that needs to be addressed.
 ________________________________________
-🛠️ **Methods Used**
+# 🛠️ **Methods Used**
 
 The dashboard appears to be built using a combination of Power BI's standard features:
 
@@ -69,26 +69,14 @@ The dashboard appears to be built using a combination of Power BI's standard fea
 
 **Scatter plots** or similar visuals for performance matrix representations.
 ________________________________________
-💡 **Suggestions & Improvement Areas**
-
-**Forecast Accuracy**: The Supply Chain View identifies several customers and segments with low forecast accuracy and Out of Stock (OOS) risks. The company should investigate these specific instances to understand the root causes, which could be anything from unreliable demand data to supply chain disruptions.
-
-**Product Performance**: While Notebooks and Desktop are strong performers, the company should analyze the underperforming segments (Storage, Networking) to either improve their profitability or reallocate resources to more successful products.
-
-**Customer Focus**: The "Top 5 Customers by Revenue" section is an excellent starting point. The company should leverage this information to build stronger relationships, potentially offering loyalty programs or targeted promotions to these high-value customers.
-
-**Operational Efficiency**: The "Unit Economics" section can be expanded to include more detailed cost components beyond COGS, such as shipping costs, labor, and overhead, to get a more granular view of profitability.
-
-**Data Granularity**: The dashboard provides a good high-level overview. Adding more detailed drill-down capabilities, perhaps into specific product models or individual transactions, would offer deeper insights.
-________________________________________
-📝 **Conclusion**
+# 📝 **Conclusion**
 
 This Power BI dashboard is a powerful tool for a holistic view of the business. It successfully consolidates complex data into an easy-to-understand format, allowing users to quickly identify key trends, performance gaps, and areas of opportunity. By leveraging these insights, the company can make more informed decisions to enhance profitability, optimize operations, and drive future growth. The identified areas for improvement, particularly in supply chain accuracy and underperforming segments, provide clear actionable steps for the business to pursue.
 ________________________________________
-💻 **Presentation**
+# 💻 **Presentation**
 
 [Link](Presentation.pdf)
 ________________________________________
-📈 **Live Dashboard** 
+# 📈 **Live Dashboard** 
 
 [Link](https://app.powerbi.com/view?r=eyJrIjoiNjljYjUwNTMtYzA0YS00YTdmLTk2OTktNTIwYWUwZTVkMWFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
