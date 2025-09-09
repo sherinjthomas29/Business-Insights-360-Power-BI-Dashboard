@@ -1,12 +1,12 @@
-# Business-Insights-360-Power-BI-Dashboard #
+## Business-Insights-360-Power-BI-Dashboard 
 
 This dashboard, "Business Insights 360," provides a multifaceted view of a company's performance across various key business functions: **Finance**, **Sales**, **Marketing**, and **Supply Chain**. The project utilizes Power BI to visualize data and extract actionable insights, enabling stakeholders to make data-driven decisions.
 ________________________________________
-# 📊 **Dashboard Overview**
+## 📊 **Dashboard Overview**
 
 The dashboard is structured with a clear navigation pane on the left, allowing users to switch between different business views. The main canvas displays a variety of visuals, including tables, charts, and key performance indicators (KPIs). The dashboard effectively uses filters and slicers to allow for granular analysis by time period, region, and product segment.
 ________________________________________
-# 📋 **Contents**
+## 📋 **Contents**
 
 1. [Home View](https://github.com/sherinjthomas29/Business-Insights-360-Power-BI-Dashboard/blob/main/Home%20View.png)
 2. [Finance View](https://github.com/sherinjthomas29/Business-Insights-360-Power-BI-Dashboard/blob/main/Finance%20View.png)
