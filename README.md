@@ -1,4 +1,4 @@
-## Business-Insights-360-Power-BI-Dashboard
+# Business-Insights-360-Power-BI-Dashboard #
 
 This dashboard, "Business Insights 360," provides a multifaceted view of a company's performance across various key business functions: **Finance**, **Sales**, **Marketing**, and **Supply Chain**. The project utilizes Power BI to visualize data and extract actionable insights, enabling stakeholders to make data-driven decisions.
 ________________________________________
